@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: RAKSHITHA K</h3>
-<h3>Register Number 212223110039</h3>
+<h3>Register Number: 212223110039</h3>
 
 
 <h3>AIM:</h3>
@@ -41,7 +41,11 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-## program 
+<h3>PROGRAM</h3>
+
+<hr>
+
+
 ```
 import random
 
@@ -93,11 +97,13 @@ if __name__ == "__main__":
     health_monitoring_agent.actuators = health_actuators
     
     health_monitoring_agent.monitor_health()
-~~~
+```
+</hr>
 
-## OUTPUT
-![image](https://github.com/user-attachments/assets/058cd921-22ce-4e5f-bcbe-5625d8f734ed)
+<h3>OUTPUT</h3>
 
+![image](https://github.com/user-attachments/assets/b29f64bc-e26b-413b-9bb9-f27afefca1f6)
 
-## RESULT
-Hence, the solution for the given AI problem is found.
+<h3>RESULT</h3>
+
+<p>Hence, the solution for the given AI problem is found.</p>
