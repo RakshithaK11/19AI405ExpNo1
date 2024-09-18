@@ -96,7 +96,8 @@ if __name__ == "__main__":
 ~~~
 
 ## OUTPUT
-![366555762-b29f64bc-e26b-413b-9bb9-f27afefca1f6](https://github.com/user-attachments/assets/ca836af4-83d9-48cf-81b9-f5dff68c57ca)
+![image](https://github.com/user-attachments/assets/058cd921-22ce-4e5f-bcbe-5625d8f734ed)
+
 
 ## RESULT
 Hence, the solution for the given AI problem is found.
